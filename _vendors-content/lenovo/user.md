@@ -1,3 +1,4 @@
+Lenovo TB-X606X
 ---
 manufacturer: 
     - lenovo
